@@ -1,0 +1,30 @@
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csprojAssemblyReference.cache
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Form1.resources
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Properties.Resources.resources
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.GenerateResource.cache
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe.config
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.pdb
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.exe
+C:\Users\julie\source\repos\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.pdb
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe.config
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.pdb
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csprojAssemblyReference.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Form1.resources
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Properties.Resources.resources
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.GenerateResource.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.exe
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.pdb
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe.config
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.exe
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\bin\Debug\Sierpinski Triangle.pdb
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csprojAssemblyReference.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Form1.resources
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski_Triangle.Properties.Resources.resources
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.GenerateResource.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.exe
+C:\Users\julie\OneDrive\Documents\Grade 12 Computer Science\Sierpinski Triangle Click For Points\Sierpinski Triangle\obj\Debug\Sierpinski Triangle.pdb
